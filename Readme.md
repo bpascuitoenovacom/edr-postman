@@ -20,7 +20,7 @@ Ci-après une vidéo illustrant les étapes décrites ci-dessous : **[api-edr-de
 
 S'être connecté une première fois avec son compte sur https://edr.enovacom.fr/enovacom-data-repository, et avoir créé un domaine FHIR-STU3 et/ou FHIR-R4.
 
-Pour chaque domaine, avoir ajouté les ressources (onglet "Ressources") existentes.
+Pour chaque domaine, avoir ajouté les ressources (onglet "Ressources") existantes.
 
 ## Import et configuration du projet
 
