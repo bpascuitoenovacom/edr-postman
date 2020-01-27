@@ -2,7 +2,8 @@
 
 ## Contexte
 
-Le projet Postman ``EDR_API`` est établi dans le cadre du site de démonstration cloud du produit ENOVACOM Data Repository (qui est livré de base sur un environnement https, avec un projet FHIR et un entrepôt local).
+Le projet Postman ``EDR_API`` est établi dans le cadre du site de démonstration cloud du produit ENOVACOM Data Repository \
+(qui est livré de base sur un environnement https, avec un projet FHIR et un entrepôt local).
 
 Y est exposée l'API FHIR :
 - d'authentification (oAuth2)
