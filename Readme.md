@@ -16,6 +16,11 @@ Y est exposée l'API FHIR :
 
 Ci-après une vidéo illustrant les étapes décrites ci-dessous : **[api-edr-demo.mp4](edr-demo.mp4)**
 
+## Prérequis
+
+S'être connecté une première fois avec son compte sur https://edr.enovacom.fr/enovacom-data-repository, et avoir créé un domaine FHIR-STU3 et/ou FHIR-R4.
+
+Pour chaque domaine, avoir ajouté les ressources (onglet "Ressources") existentes.
 
 ## Import et configuration du projet
 
